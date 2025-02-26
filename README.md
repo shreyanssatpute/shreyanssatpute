@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreyans Satpute</h1>
 <h3 align="center">Innovating at the Intersection of Design, Technology, and Product</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyanssatpute" alt="shreyanssatpute" /></a> </p>
 
 - 🔭 I’m currently working as a **Product Intern at CleverTap**, contributing to **partner integrations, AI-driven automation, and campaign optimization**.  
 - 🌱 I’m currently learning **Machine Learning and Product Management**.  
@@ -71,6 +70,4 @@
 
 ---
 
-## 📊 GitHub Stats  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyanssatpute&" alt="shreyanssatpute" /></p>
