@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Shreyans Satpute</h1>
+<h1 align="center">Hi, I'm Shreyans Satpute</h1>
 <h3 align="center">Innovating at the Intersection of Design, Technology, and Product</h3>
 
 
 - 🔭 I’m currently working as a **Product Intern at CleverTap**, contributing to **partner integrations, AI-driven automation, and campaign optimization**.  
 - 🌱 I’m currently learning **Machine Learning and Product Management**.  
-- 💻 Check out my portfolio: [shreyans](https://shreyansportfolio.framer.website)
+- 💻 Check out my portfolio:** [shreyans](https://shreyansportfolio.framer.website)**
 - 📫 Reach me at **shreyanssatpute@gmail.com**  
 - 📄 Connect with me on **[LinkedIn](https://www.linkedin.com/in/shreyans-satpute-739b16246/)**  
 
