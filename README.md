@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as a **Product Intern at CleverTap**, contributing to **partner integrations, AI-driven automation, and campaign optimization**.  
 - 🌱 I’m currently learning **Machine Learning and Product Management**.  
-- 💻 Check out my portfolio: [shreyanssatpute.github.io](https://shreyanssatpute.github.io/Task1-Portfolio/)  
+- 💻 Check out my portfolio: [https://shreyansportfolio.framer.website]
 - 📫 Reach me at **shreyanssatpute@gmail.com**  
 - 📄 Connect with me on **[LinkedIn](https://www.linkedin.com/in/shreyans-satpute-739b16246/)**  
 
